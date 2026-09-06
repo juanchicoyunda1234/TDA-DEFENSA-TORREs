@@ -6,7 +6,7 @@ import modelo.TorreArquera;
 import modelo.TorreCanon;
 import negocio.JuegoDefensaTorres;
 
-public class Main {
+public class Main{
     public static void main(String[] args) {
         JuegoDefensaTorres juego = new JuegoDefensaTorres(10, 20);
 
