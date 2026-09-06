@@ -1,0 +1,26 @@
+# Binarios y compilados Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Binarios y compilados C++
+*.exe
+*.o
+*.obj
+*.out
+*.dll
+*.so
+*.dylib
+
+# Entornos y configuraciones de IDEs
+.vscode/
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
